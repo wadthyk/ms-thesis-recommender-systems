@@ -1,0 +1,1642 @@
+{
+  "tracks": [
+    {
+      "artist": "Roy Kim",
+      "album": "WE GO HIGH",
+      "track": "WE GO HIGH",
+      "uri": "spotify:track:2xiMbOHBJhAysqRSTLMYnk"
+    },
+    {
+      "artist": "James Arthur",
+      "album": "Back from the Edge",
+      "track": "Say You Won't Let Go",
+      "uri": "spotify:track:5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "artist": "Loote",
+      "album": "Your Side Of The Bed",
+      "track": "Your Side Of The Bed (feat. Eric Nam)",
+      "uri": "spotify:track:3dz63QjQVZy7RYPzx6l3JU"
+    },
+    {
+      "artist": "Woody",
+      "album": "Nostalgia",
+      "track": "Nostalgia",
+      "uri": "spotify:track:6USuf8mq2X9jgvvv6MZldZ"
+    },
+    {
+      "artist": "Alina Baraz",
+      "album": "The Color Of You",
+      "track": "Electric (feat. Khalid)",
+      "uri": "spotify:track:2mj7x99sNUsVHPBRK51zlG"
+    },
+    {
+      "artist": "Justin Bieber",
+      "album": "Justice",
+      "track": "Anyone",
+      "uri": "spotify:track:2WnAKZefdRHxtBEkRjFOHC"
+    },
+    {
+      "artist": "Yoo Jae-Ha",
+      "album": "사랑하기 때문에",
+      "track": "사랑하기 때문에",
+      "uri": "spotify:track:0I9vXVUpijjek2ULH4UUJw"
+    },
+    {
+      "artist": "The Mayries",
+      "album": "#Acoustic",
+      "track": "The Middle - Acoustic Version",
+      "uri": "spotify:track:3OyccA0I2ueEyYnvfRxoAr"
+    },
+    {
+      "artist": "Ne-Yo",
+      "album": "In My Own Words",
+      "track": "So Sick",
+      "uri": "spotify:track:6brl7bwOHmGFkNw3MBqssT"
+    },
+    {
+      "artist": "Jake Miller",
+      "album": "Silver Lining II",
+      "track": "Ross And Rachel",
+      "uri": "spotify:track:4vCiNW18AyeaUAZosVnX61"
+    },
+    {
+      "artist": "College",
+      "album": "A Real Hero EP",
+      "track": "A Real Hero",
+      "uri": "spotify:track:1aJrVsHwcQMZ8TZ6mlvT5J"
+    },
+    {
+      "artist": "Oasis",
+      "album": "(What's The Story) Morning Glory?",
+      "track": "Wonderwall",
+      "uri": "spotify:track:1qPbGZqppFwLwcBC1JQ6Vr"
+    },
+    {
+      "artist": "Loving Caliber",
+      "album": "Symphony No.10",
+      "track": "Someone I Used to Know",
+      "uri": "spotify:track:3l57GfVG4t1NKkrCXS2b0k"
+    },
+    {
+      "artist": "Shawn Mendes",
+      "album": "When You're Gone",
+      "track": "When You're Gone",
+      "uri": "spotify:track:0U1W2LZVUX7qTm7dDpqxh6"
+    },
+    {
+      "artist": "Rita Ora",
+      "album": "Phoenix",
+      "track": "Let You Love Me",
+      "uri": "spotify:track:5Fla3zyOCcIRqrDoKLU0DP"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Ghost Stories",
+      "track": "A Sky Full of Stars",
+      "uri": "spotify:track:0FDzzruyVECATHXKHFs9eJ"
+    },
+    {
+      "artist": "Justin Bieber",
+      "album": "Purpose",
+      "track": "Sorry",
+      "uri": "spotify:track:09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "artist": "Charlie Puth",
+      "album": "Nine Track Mind",
+      "track": "Losing My Mind",
+      "uri": "spotify:track:5QTYKyXxIJaLupn1J6W9QU"
+    },
+    {
+      "artist": "IU",
+      "album": "The Winning",
+      "track": "I stan U",
+      "uri": "spotify:track:0NnXG9qhpf0E6elVQdWLE7"
+    },
+    {
+      "artist": "Wildflowers",
+      "album": "Buttercup",
+      "track": "I'm Falling In Love",
+      "uri": "spotify:track:0gFfBRTeZKsSAVzVSUgHNK"
+    },
+    {
+      "artist": "K.Will",
+      "album": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
+      "track": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
+      "uri": "spotify:track:5NkpsRKvSBukdYQtl3WLZW"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Memories...Do Not Open",
+      "track": "Paris",
+      "uri": "spotify:track:72jbDTw1piOOj770jWNeaG"
+    },
+    {
+      "artist": "Nena",
+      "album": "Nena",
+      "track": "99 Luftballons",
+      "uri": "spotify:track:4ZhPLoMzZwewHLLjV1J15c"
+    },
+    {
+      "artist": "Josh Kerr",
+      "album": "12/12 (Acoustic)",
+      "track": "I Didn't Love You",
+      "uri": "spotify:track:2jOPhB8JVVhe70okpKZoA7"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "I Feel It Coming",
+      "uri": "spotify:track:3dhjNA0jGA8vHBQ1VdD6vV"
+    },
+    {
+      "artist": "BLACKPINK",
+      "album": "THE ALBUM",
+      "track": "Lovesick Girls",
+      "uri": "spotify:track:4Ws314Ylb27BVsvlZOy30C"
+    },
+    {
+      "artist": "Shin Ji Hoon",
+      "album": "Captivating the King, Pt. 1 (Original Soundtrack)",
+      "track": "Daydreaming",
+      "uri": "spotify:track:4W80wY6lOgQaF87Lgkge4P"
+    },
+    {
+      "artist": "Charlie Puth",
+      "album": "Cheating on You",
+      "track": "Cheating on You",
+      "uri": "spotify:track:0ClPIeT6MSgfSgQ9ZrJbAq"
+    },
+    {
+      "artist": "Conor Maynard",
+      "album": "Forget Me",
+      "track": "Forget Me",
+      "uri": "spotify:track:2XhSWQJMPYdZRJotljAm7b"
+    },
+    {
+      "artist": "Primary",
+      "album": "Primary And The Messengers LP",
+      "track": "LOVE (Feat. Bumkey, Paloalto)",
+      "uri": "spotify:track:7fwzRygAKtUrW3oPm9gRSI"
+    },
+    {
+      "artist": "Christian French",
+      "album": "superstars",
+      "track": "superstars",
+      "uri": "spotify:track:0TqaX16qLpX7YqFcAl9lDy"
+    },
+    {
+      "artist": "DAVICHI",
+      "album": "MYSTIC BALLAD Pt. 2",
+      "track": "You Are My Everything",
+      "uri": "spotify:track:6wWcp5E4t718rKfoVM98H1"
+    },
+    {
+      "artist": "Kim Seungmin",
+      "album": "This song (STUDY GROUP X Kim Seungmin, Skinny Brown)",
+      "track": "This song (STUDY GROUP X Kim Seungmin, Skinny Brown)",
+      "uri": "spotify:track:0ZDod3umane8yhiFprEx34"
+    },
+    {
+      "artist": "Justin Bieber",
+      "album": "Purpose",
+      "track": "What Do You Mean?",
+      "uri": "spotify:track:4B0JvthVoAAuygILe3n4Bs"
+    },
+    {
+      "artist": "Stephen Sanchez",
+      "album": "Until I Found You",
+      "track": "Until I Found You",
+      "uri": "spotify:track:0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "artist": "Naul",
+      "album": "Back To The Soul Flight",
+      "track": "Sad Café (with 다이나믹 듀오)",
+      "uri": "spotify:track:7J5n43V2aB0xmCfWlBiRfh"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Viva La Vida or Death and All His Friends",
+      "track": "Viva La Vida",
+      "uri": "spotify:track:3Fcfwhm8oRrBvBZ8KGhtea"
+    },
+    {
+      "artist": "Jonas Blue",
+      "album": "Blue",
+      "track": "Fast Car",
+      "uri": "spotify:track:1SN1vSPsr4V4tIUTR3s8YW"
+    },
+    {
+      "artist": "Marshmello",
+      "album": "Happier",
+      "track": "Happier",
+      "uri": "spotify:track:7BqHUALzNBTanL6OvsqmC1"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "track": "Ghost Of You",
+      "uri": "spotify:track:1MhXdlCQPnO56T57MfmaRm"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Lover",
+      "track": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+      "uri": "spotify:track:2Rk4JlNc2TPmZe2af99d45"
+    },
+    {
+      "artist": "Sasha Alex Sloan",
+      "album": "Dancing With Your Ghost",
+      "track": "Dancing With Your Ghost",
+      "uri": "spotify:track:1TQXIltqoZ5XXyfCbAeSQQ"
+    },
+    {
+      "artist": "2NE1",
+      "album": "To Anyone",
+      "track": "Ah-Yah-Yah (사랑은 아야야)",
+      "uri": "spotify:track:3LcqmxG7aKGijDF5e7XvUR"
+    },
+    {
+      "artist": "NOTD",
+      "album": "AM:PM",
+      "track": "AM:PM",
+      "uri": "spotify:track:7DwVS1naLT9jP0PE78jg4P"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "The Sound",
+      "uri": "spotify:track:7h6lpVuSGPW6RNjDXKpYDh"
+    },
+    {
+      "artist": "HENRY",
+      "album": "While You Were Sleeping, Pt. 2 (Original Television Soundtrack)",
+      "track": "It's You",
+      "uri": "spotify:track:61OtYav1fiUCr73JwZD2Sb"
+    },
+    {
+      "artist": "AKMU",
+      "album": "SAILING",
+      "track": "How can I love the heartbreak, you're the one I love",
+      "uri": "spotify:track:0hqj5JBnFt1BHEz2UCFwrl"
+    },
+    {
+      "artist": "Justin Bieber",
+      "album": "My World",
+      "track": "One Less Lonely Girl",
+      "uri": "spotify:track:69ghzc538EQSVon2Gm3wrr"
+    },
+    {
+      "artist": "G-DRAGON",
+      "album": "One of a Kind",
+      "track": "Without You (Feat. ROSE)",
+      "uri": "spotify:track:3V375E3xldRPEEcIKiw83l"
+    },
+    {
+      "artist": "Adele",
+      "album": "Easy On Me",
+      "track": "Easy On Me",
+      "uri": "spotify:track:0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "artist": "vaultboy",
+      "album": "rocket science",
+      "track": "rocket science",
+      "uri": "spotify:track:55cwGtYrExG7slEAor5jeR"
+    },
+    {
+      "artist": "Christopher",
+      "album": "Leap Of Faith",
+      "track": "Leap Of Faith",
+      "uri": "spotify:track:571B8LxRZwmG1S1YNfGq4Q"
+    },
+    {
+      "artist": "Big Wild",
+      "album": "Superdream",
+      "track": "6's to 9's",
+      "uri": "spotify:track:4DAaQ5InUO23d8yNRbB0Yj"
+    },
+    {
+      "artist": "WOODZ",
+      "album": "YUMI's Cells 2 (Original Television Soundtrack)",
+      "track": "About You",
+      "uri": "spotify:track:4nuAz4iqrdrOI4rnmVYsRL"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "This Christmas – Winter is Coming",
+      "track": "Candy Cane",
+      "uri": "spotify:track:1SO3jE0lOysjtylF6y3FWt"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Fire",
+      "uri": "spotify:track:2KiIPv0kEZGdAsUoFuJ8GT"
+    },
+    {
+      "artist": "The Band CAMINO",
+      "album": "My Thoughts On You",
+      "track": "2 / 14",
+      "uri": "spotify:track:2QwpEi3eNToZCCMMRcOj0u"
+    },
+    {
+      "artist": "Justin Bieber",
+      "album": "Justice",
+      "track": "Ghost",
+      "uri": "spotify:track:6I3mqTwhRpn34SLVafSH7G"
+    },
+    {
+      "artist": "Valley",
+      "album": "Last Birthday",
+      "track": "Like 1999",
+      "uri": "spotify:track:25gacl0dFF9HTclx7Ug7xC"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "This Christmas – Winter is Coming",
+      "track": "This Christmas",
+      "uri": "spotify:track:6eAMa0e7WCbjM7ivbAhvkq"
+    },
+    {
+      "artist": "High School Musical Cast",
+      "album": "High School Musical 3: Senior Year",
+      "track": "Right Here, Right Now",
+      "uri": "spotify:track:5EBd8sbeMSyIotWaMnR7s4"
+    },
+    {
+      "artist": "John Splithoff",
+      "album": "Make It Happen",
+      "track": "Raye",
+      "uri": "spotify:track:1HCscV7IBGyxnaPh2jShMP"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Speak Now",
+      "track": "Enchanted",
+      "uri": "spotify:track:04S1pkp1VaIqjg8zZqknR5"
+    },
+    {
+      "artist": "EXO",
+      "album": "The 1st Album 'XOXO' (Repackage)",
+      "track": "Don't Go",
+      "uri": "spotify:track:1Acgi7wxVD9OF3iQnFe8Q4"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Purpose - The 2nd Album Repackage",
+      "track": "Drawing Our Moments",
+      "uri": "spotify:track:0BiJCg7FLwWGTYLEsnaHcz"
+    },
+    {
+      "artist": "Rangga Jones",
+      "album": "Favourite Things",
+      "track": "Favourite Things",
+      "uri": "spotify:track:5qDfGiZz9Soxb9Xn2jQ8hk"
+    },
+    {
+      "artist": "The Buggles",
+      "album": "The Age Of Plastic",
+      "track": "Video Killed The Radio Star",
+      "uri": "spotify:track:7o7E1nrHWncYY7PY94gCiX"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Style",
+      "uri": "spotify:track:0ug5NqcwcFR2xrfTkc7k8e"
+    },
+    {
+      "artist": "Sasha Alex Sloan",
+      "album": "Is It Just Me? (feat. Charlie Puth)",
+      "track": "Is It Just Me? (feat. Charlie Puth)",
+      "uri": "spotify:track:5tqNWWiySiABLrGAvSWsO5"
+    },
+    {
+      "artist": "Thomas Newman",
+      "album": "Meet Joe Black",
+      "track": "Walkaway",
+      "uri": "spotify:track:4NylPsv1qukmF4RkJSKUaK"
+    },
+    {
+      "artist": "FIFTY FIFTY",
+      "album": "The Beginning: Cupid",
+      "track": "Cupid - Twin Ver.",
+      "uri": "spotify:track:7FbrGaHYVDmfr7KoLIZnQ7"
+    },
+    {
+      "artist": "Kodak Black",
+      "album": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack)",
+      "track": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "uri": "spotify:track:4g1Ant3Me43Cm5Lx91bV8e"
+    },
+    {
+      "artist": "Jesse McCartney",
+      "album": "Right Where You Want Me",
+      "track": "Right Back In The Water",
+      "uri": "spotify:track:6wf3x65zYwvoAg7UNSHB11"
+    },
+    {
+      "artist": "Isaac Hale",
+      "album": "STAY",
+      "track": "STAY",
+      "uri": "spotify:track:1ejniTp6tQF5xULkomIwrj"
+    },
+    {
+      "artist": "Ne-Yo",
+      "album": "Year Of The Gentleman",
+      "track": "Mad",
+      "uri": "spotify:track:6Hn9Uc1mMNfqChXU3txNke"
+    },
+    {
+      "artist": "DALPALAN",
+      "album": "Moving",
+      "track": "Rising Bongseok",
+      "uri": "spotify:track:0ZlTzfjMICSAcygCG4azjj"
+    },
+    {
+      "artist": "Nicky Youre",
+      "album": "Sunroof",
+      "track": "Sunroof",
+      "uri": "spotify:track:4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "artist": "Ne-Yo",
+      "album": "Because Of You",
+      "track": "Because Of You",
+      "uri": "spotify:track:6CFPFnS9EcLs2I0nWqtWci"
+    },
+    {
+      "artist": "Cheat Codes",
+      "album": "Hate You + Love You (feat. AJ Mitchell)",
+      "track": "Hate You + Love You (feat. AJ Mitchell)",
+      "uri": "spotify:track:7DgkSYT6vh3UAYQlFbsj6z"
+    },
+    {
+      "artist": "Jessie J",
+      "album": "Who You Are",
+      "track": "Price Tag",
+      "uri": "spotify:track:2fTsFCKRFQ5M0igJgabnLA"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "I - The 1st Mini Album",
+      "track": "I",
+      "uri": "spotify:track:5ZkITfPpcNPnyYGTibkO6m"
+    },
+    {
+      "artist": "Zac Efron",
+      "album": "High School Musical 2 Original Soundtrack",
+      "track": "Gotta Go My Own Way",
+      "uri": "spotify:track:0moS6k1E4YNbkG4Dxet8ZH"
+    },
+    {
+      "artist": "Mokita",
+      "album": "colorblind",
+      "track": "colorblind",
+      "uri": "spotify:track:4o3XxiQ9BljY4OU38zanC0"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "11:11",
+      "uri": "spotify:track:67QGnT1Vdfuuy4HkLTUVjj"
+    },
+    {
+      "artist": "Jason Lee",
+      "album": "New York",
+      "track": "New York (Feat. meenoi)",
+      "uri": "spotify:track:1iHUviea5DtxFhIz7QeCXz"
+    },
+    {
+      "artist": "Lemon City",
+      "album": "Hold me Kiss me Love me",
+      "track": "Hold me Kiss me Love me",
+      "uri": "spotify:track:7eTrak4jRwWpUGJeahihH6"
+    },
+    {
+      "artist": "Ellie Goulding",
+      "album": "FIFTY SHADES OF GREY - Befreite Lust",
+      "track": "Love Me Like You Do",
+      "uri": "spotify:track:1bIVDJC6imJNGSExMwlxy3"
+    },
+    {
+      "artist": "Shawn Mendes",
+      "album": "Shawn Mendes",
+      "track": "If I Can't Have You",
+      "uri": "spotify:track:2bT1PH7Cw3J9p3t7nlXCdh"
+    },
+    {
+      "artist": "Fromm",
+      "album": "Arrival",
+      "track": "좋아해",
+      "uri": "spotify:track:29FcSLzUr0JZH8Yd3QbVPJ"
+    },
+    {
+      "artist": "Leellamarz",
+      "album": "RUN",
+      "track": "RUN",
+      "uri": "spotify:track:58tEXB9Xdu0ckwfZ3zdLWo"
+    },
+    {
+      "artist": "Jesse McCartney",
+      "album": "Beautiful Soul",
+      "track": "Because You Live",
+      "uri": "spotify:track:2zFU4UbmsjNHcnod8MlvYx"
+    },
+    {
+      "artist": "Nicki Minaj",
+      "album": "Pink Friday",
+      "track": "Super Bass",
+      "uri": "spotify:track:3hlksXnvbKogFdPbpO9vel"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Hotel del Luna (Original Television Soundtrack) Pt.3",
+      "track": "그대라는 시",
+      "uri": "spotify:track:56Cmy1rCQ35V2Q7groYiHl"
+    },
+    {
+      "artist": "Justin Bieber",
+      "album": "Intentions",
+      "track": "Intentions",
+      "uri": "spotify:track:364dI1bYnvamSnBJ8JcNzN"
+    },
+    {
+      "artist": "IU",
+      "album": "The Winning",
+      "track": "Shopper",
+      "uri": "spotify:track:1c6kkrWnpy68eYDfBdxNtF"
+    },
+    {
+      "artist": "Woody",
+      "album": "Flower in the Desert",
+      "track": "Flower in the Desert - Kor Version",
+      "uri": "spotify:track:7M3POeMOBCs6pwtDkVhBTi"
+    },
+    {
+      "artist": "HYNN",
+      "album": "Heaven",
+      "track": "Heaven",
+      "uri": "spotify:track:4Ohe61evYAILzlyhSjd7Eq"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "JORDI",
+      "track": "Beautiful Mistakes (feat. Megan Thee Stallion)",
+      "uri": "spotify:track:5zFglKYiknIxks8geR8rcL"
+    },
+    {
+      "artist": "Lauv",
+      "album": "~how i'm feeling~",
+      "track": "Feelings",
+      "uri": "spotify:track:6r3duEAfFTH83DuoywkG20"
+    },
+    {
+      "artist": "a-ha",
+      "album": "Hunting High and Low",
+      "track": "Take on Me",
+      "uri": "spotify:track:2WfaOiMkCvy7F5fcp2zZ8L"
+    },
+    {
+      "artist": "Great Good Fine Ok",
+      "album": "III",
+      "track": "Holding You",
+      "uri": "spotify:track:0Xe3C9GFIcEAiOw5ryA6y7"
+    },
+    {
+      "artist": "Miley Cyrus",
+      "album": "Bangerz (Deluxe Version)",
+      "track": "Wrecking Ball",
+      "uri": "spotify:track:2vwlzO0Qp8kfEtzTsCXfyE"
+    },
+    {
+      "artist": "Alesso",
+      "album": "Forever",
+      "track": "Heroes (we could be)",
+      "uri": "spotify:track:3zU9rdflI65tK4dkkNSp77"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Closer",
+      "track": "Closer",
+      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "artist": "Sarah Kang",
+      "album": "Summer Is for Falling in Love",
+      "track": "Summer Is for Falling in Love",
+      "uri": "spotify:track:6yfGer1TKpxOjhSd5eL0DL"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "INVU - The 3rd Album",
+      "track": "Weekend",
+      "uri": "spotify:track:0n1jo6k1GUzyrcXW2aS0iL"
+    },
+    {
+      "artist": "One Direction",
+      "album": "Take Me Home",
+      "track": "Little Things",
+      "uri": "spotify:track:0TAmnCzOtqRfvA38DDLTjj"
+    },
+    {
+      "artist": "f(x)",
+      "album": "Pink Tape - The 2nd Album",
+      "track": "Goodbye Summer (f(Amber+Luna+Krystal))",
+      "uri": "spotify:track:1UpLArL9Db4IAK5DjKZYP8"
+    },
+    {
+      "artist": "Masego",
+      "album": "The Pink Polo EP",
+      "track": "Sunday Vibes",
+      "uri": "spotify:track:3l75jB2gKi4VpgklWIbTOz"
+    },
+    {
+      "artist": "Virginia To Vegas",
+      "album": "Just Friends",
+      "track": "Just Friends",
+      "uri": "spotify:track:02Ygu8lo3qSknRpcBnspso"
+    },
+    {
+      "artist": "IU",
+      "album": "My Last Love OST Part.4",
+      "track": "Hold my hand",
+      "uri": "spotify:track:0KVClXxsZEKkyWRNXeRFrE"
+    },
+    {
+      "artist": "Katnip",
+      "album": "In Love With Myself",
+      "track": "In Love with Myself",
+      "uri": "spotify:track:5phUnAWS7XvAykuhAEG3jf"
+    },
+    {
+      "artist": "OmyuO",
+      "album": "Lonely Jolly Christmas",
+      "track": "Lonely Jolly Christmas",
+      "uri": "spotify:track:3vZ8V81OA8QtPh5TQRXmPG"
+    },
+    {
+      "artist": "DELISPICE",
+      "album": "Espresso",
+      "track": "고백",
+      "uri": "spotify:track:20tWEsVsKU6FfzXGt4IOuV"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Why - The 2nd Mini Album",
+      "track": "Starlight",
+      "uri": "spotify:track:5MYL9WejirHj0kc8crJPJ0"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Lover",
+      "track": "Cornelia Street",
+      "uri": "spotify:track:12M5uqx0ZuwkpLp5rJim1a"
+    },
+    {
+      "artist": "Jonas Blue",
+      "album": "Blue",
+      "track": "Mama",
+      "uri": "spotify:track:7jEyX4bqaCSdMN4D4JNnVj"
+    },
+    {
+      "artist": "Wincent Weiss",
+      "album": "Stiehl mir die Show",
+      "track": "Stiehl mir die Show - aus \"Elemental\"",
+      "uri": "spotify:track:1UagYlFuMTOX0iMi1DwiLg"
+    },
+    {
+      "artist": "Lauv",
+      "album": "There's No Way (feat. Julia Michaels)",
+      "track": "There's No Way (feat. Julia Michaels)",
+      "uri": "spotify:track:3F7bhRhNpY4YKrwa4kGeUz"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Speak Now",
+      "track": "Sparks Fly",
+      "uri": "spotify:track:46NGAvL695VnbcSeTmQWmM"
+    },
+    {
+      "artist": "LANY",
+      "album": "Malibu Nights",
+      "track": "Thick And Thin",
+      "uri": "spotify:track:3D110t9ctcoOoylXsc3iR8"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "All We Know",
+      "track": "All We Know",
+      "uri": "spotify:track:2rizacJSyD9S1IQUxUxnsK"
+    },
+    {
+      "artist": "Miley Cyrus",
+      "album": "The Time Of Our Lives",
+      "track": "Party In The U.S.A.",
+      "uri": "spotify:track:3E7dfMvvCLUddWissuqMwr"
+    },
+    {
+      "artist": "MIKA",
+      "album": "Popular Song",
+      "track": "Popular Song",
+      "uri": "spotify:track:0xFomAiFsu5qCnLM0hu0UR"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Welcome to Samdal-ri (Original Television Soundtrack), Pt.3",
+      "track": "Dream",
+      "uri": "spotify:track:5DIooJbJaNbxidKBMbk2ts"
+    },
+    {
+      "artist": "Lauv",
+      "album": "Steal The Show",
+      "track": "Steal The Show - From \"Elemental\"",
+      "uri": "spotify:track:6R5fYCySNHrqo4Og6O1ppn"
+    },
+    {
+      "artist": "LANY",
+      "album": "gg bb xx",
+      "track": "dna",
+      "uri": "spotify:track:2McTSCNNzxgDtAqiuibhPI"
+    },
+    {
+      "artist": "SHINee",
+      "album": "The Story of Light' EP.1 - The 6th Album",
+      "track": "데리러 가 Good Evening",
+      "uri": "spotify:track:3dTFof43vcpQKx6Z3iTsOj"
+    },
+    {
+      "artist": "Gamma Skies",
+      "album": "Do Not Let Me Go",
+      "track": "Do Not Let Me Go",
+      "uri": "spotify:track:12FdSnBs9jRBj017O01xZI"
+    },
+    {
+      "artist": "ZAYN",
+      "album": "Icarus Falls",
+      "track": "Dusk Till Dawn (feat. Sia) - Radio Edit",
+      "uri": "spotify:track:3e7sxremeOE3wTySiOhGiP"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Lover",
+      "track": "Cruel Summer",
+      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "artist": "Zedd",
+      "album": "The Middle",
+      "track": "The Middle",
+      "uri": "spotify:track:09IStsImFySgyp0pIQdqAc"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Lover",
+      "track": "Daylight",
+      "uri": "spotify:track:1fzAuUVbzlhZ1lJAx9PtY6"
+    },
+    {
+      "artist": "Wildflowers",
+      "album": "Better without Me",
+      "track": "If You Go",
+      "uri": "spotify:track:5jHZglV9DXlhEYqDJOUBDH"
+    },
+    {
+      "artist": "Loote",
+      "album": "lost",
+      "track": "are you sure?",
+      "uri": "spotify:track:0PiRp1VzEBHp68wY1M7zMs"
+    },
+    {
+      "artist": "BOYS LIKE GIRLS",
+      "album": "Love Drunk",
+      "track": "Two Is Better Than One (feat. Taylor Swift)",
+      "uri": "spotify:track:1MaqkdFNIKPdpQGDzme5ss"
+    },
+    {
+      "artist": "Gummy",
+      "album": "Hotel del Luna (Original Television Soundtrack) Pt.7",
+      "track": "기억해줘요 내 모든 날과 그때를",
+      "uri": "spotify:track:3OqE4AVDie6l1gjoXGAQQR"
+    },
+    {
+      "artist": "One Direction",
+      "album": "FOUR",
+      "track": "18",
+      "uri": "spotify:track:3JjnGLK8IxkNLvo8Lb3KOM"
+    },
+    {
+      "artist": "IU",
+      "album": "CHAT-SHIRE",
+      "track": "The shower",
+      "uri": "spotify:track:6Ig42GJlpNtP77kGIXYZc4"
+    },
+    {
+      "artist": "Hiyo",
+      "album": "Shoegaze",
+      "track": "Don't Go",
+      "uri": "spotify:track:4HtaMV2XKYaezkj70K75z3"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Time Lapse",
+      "uri": "spotify:track:5xHSzEHkbQSc5n4ATBv1du"
+    },
+    {
+      "artist": "Craig Reever",
+      "album": "We're All Runners",
+      "track": "We're All Runners",
+      "uri": "spotify:track:7Eauv9hHwbLEZcpicVuypJ"
+    },
+    {
+      "artist": "Munn",
+      "album": "only human.",
+      "track": "learned from you",
+      "uri": "spotify:track:1LssaQkPdWYdTfna8B0198"
+    },
+    {
+      "artist": "Peder Elias",
+      "album": "When I´m Still Getting Over You (feat. Paige)",
+      "track": "When I´m Still Getting Over You (feat. Paige)",
+      "uri": "spotify:track:7suhPkKX61NRfwW7A4TK6t"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Page 0",
+      "track": "Page 0",
+      "uri": "spotify:track:10X2ihhKwPyKzo89h4965O"
+    },
+    {
+      "artist": "Miley Cyrus",
+      "album": "Plastic Hearts",
+      "track": "Angels Like You",
+      "uri": "spotify:track:1daDRI9ahBonbWD8YcxOIB"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Music Of The Spheres",
+      "track": "My Universe",
+      "uri": "spotify:track:46HNZY1i7O6jwTA7Slo2PI"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "track": "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
+      "uri": "spotify:track:1oFAF1hdPOickyHgbuRjyX"
+    },
+    {
+      "artist": "Lauv",
+      "album": "~how i'm feeling~",
+      "track": "Modern Loneliness",
+      "uri": "spotify:track:18ioFJkxW5B0hOXE0l2ddw"
+    },
+    {
+      "artist": "NewJeans",
+      "album": "NewJeans 'Super Shy'",
+      "track": "Super Shy",
+      "uri": "spotify:track:5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "artist": "Maggie Lindemann",
+      "album": "Pretty Girl",
+      "track": "Pretty Girl",
+      "uri": "spotify:track:1ue7zm5TVVvmoQV8lK6K2H"
+    },
+    {
+      "artist": "PL",
+      "album": "DREAMLIKE",
+      "track": "DREAMLIKE",
+      "uri": "spotify:track:4mBSGhDX6mvp96LJbJpmnq"
+    },
+    {
+      "artist": "Ourealgoat",
+      "album": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 2",
+      "track": "Only Late at Night (feat. Jay Park) (prod. Vangdale)",
+      "uri": "spotify:track:2PY3kiM41wd6gjkPt4JD9p"
+    },
+    {
+      "artist": "Fall Out Boy",
+      "album": "From Under The Cork Tree",
+      "track": "Sugar, We're Goin Down",
+      "uri": "spotify:track:2TfSHkHiFO4gRztVIkggkE"
+    },
+    {
+      "artist": "Rook Monroe",
+      "album": "Californialand",
+      "track": "Honey",
+      "uri": "spotify:track:278D2oQRhZ0UHZZdsPIUDn"
+    },
+    {
+      "artist": "Manila Killa",
+      "album": "Everyday, Everyday (feat. Nevve)",
+      "track": "Everyday, Everyday (feat. Nevve)",
+      "uri": "spotify:track:2uF9MllYoEuXzUnMudZG4c"
+    },
+    {
+      "artist": "Avicii",
+      "album": "AVĪCI",
+      "track": "Lonely Together (feat. Rita Ora)",
+      "uri": "spotify:track:7DoN0sCGIT9IcLrtBDm4f0"
+    },
+    {
+      "artist": "MKTO",
+      "album": "MKTO",
+      "track": "Classic",
+      "uri": "spotify:track:6FE2iI43OZnszFLuLtvvmg"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Back To You",
+      "track": "Back To You - From 13 Reasons Why – Season 2 Soundtrack",
+      "uri": "spotify:track:4hQ6UGyWQIGJmHSo0J88JW"
+    },
+    {
+      "artist": "Bruno Mars",
+      "album": "Unorthodox Jukebox",
+      "track": "Treasure",
+      "uri": "spotify:track:55h7vJchibLdUkxdlX3fK7"
+    },
+    {
+      "artist": "Ava Max",
+      "album": "Christmas Without You",
+      "track": "Christmas Without You",
+      "uri": "spotify:track:1QLZKzC2pjP4ySf4ALrNhm"
+    },
+    {
+      "artist": "Valley",
+      "album": "Last Birthday",
+      "track": "Oh shit…are we in love?",
+      "uri": "spotify:track:4BIuY0oEopXizyP3WvkNrT"
+    },
+    {
+      "artist": "Yerin Baek",
+      "album": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
+      "track": "Here I Am Again",
+      "uri": "spotify:track:1uZ5Ulb2qfle3HbqB12vNQ"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Lover",
+      "track": "London Boy",
+      "uri": "spotify:track:1LLXZFeAHK9R4xUramtUKw"
+    },
+    {
+      "artist": "JP Saxe",
+      "album": "Dangerous Levels of Introspection",
+      "track": "If the World Was Ending (feat. Julia Michaels)",
+      "uri": "spotify:track:77MdvMx9L4ZQuLhhn3o21h"
+    },
+    {
+      "artist": "Nicklas Sahl",
+      "album": "New Eyes",
+      "track": "New Eyes",
+      "uri": "spotify:track:5nvPhsgDEqEHQ3bLTfqDsd"
+    },
+    {
+      "artist": "Motel 7",
+      "album": "It's Alright",
+      "track": "It's Alright",
+      "uri": "spotify:track:7xOUwZR2KLFkVU8Ukils74"
+    },
+    {
+      "artist": "MRCH",
+      "album": "Oh, Life",
+      "track": "항복",
+      "uri": "spotify:track:40cWWy4RgszGtvmmiAaJLM"
+    },
+    {
+      "artist": "BTS",
+      "album": "Love Yourself 結 'Answer'",
+      "track": "Magic Shop",
+      "uri": "spotify:track:37nOpaUof3d4Xsmr6moAiI"
+    },
+    {
+      "artist": "Jonas Blue",
+      "album": "Don’t Wake Me Up",
+      "track": "Don’t Wake Me Up",
+      "uri": "spotify:track:3LEgGAl9zLcQWGTp7ptqtQ"
+    },
+    {
+      "artist": "Kim Min-seok (MeloMance)",
+      "album": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+      "track": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+      "uri": "spotify:track:5RrUPK9KuZcaVcO0aJwCdy"
+    },
+    {
+      "artist": "Ethan Dufault",
+      "album": "Kryptonite",
+      "track": "Kryptonite",
+      "uri": "spotify:track:6MHdshcMIWOyrlM3eK5KJf"
+    },
+    {
+      "artist": "Kelsea Ballerini",
+      "album": "I Quit Drinking",
+      "track": "I Quit Drinking",
+      "uri": "spotify:track:6OcCk1dbAb7XNHsC098oEM"
+    },
+    {
+      "artist": "MRCH",
+      "album": "To the Dawn",
+      "track": "To the Dawn",
+      "uri": "spotify:track:1fDQ8cZ2CWJY06zfdgv3m3"
+    },
+    {
+      "artist": "Sture Zetterberg",
+      "album": "Nobody Loves Me Better",
+      "track": "Nobody Loves Me Better",
+      "uri": "spotify:track:3BMzp8X3mwuDZk980s3PhB"
+    },
+    {
+      "artist": "Knox",
+      "album": "I'm So Good At Being Alone?",
+      "track": "Not The 1975",
+      "uri": "spotify:track:2U0Zowgw2tgJXu5K56i4Q4"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "track": "Blinding Lights",
+      "uri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "artist": "Why Don't We",
+      "album": "Just Friends",
+      "track": "Just Friends",
+      "uri": "spotify:track:0tjYK2gtxo8fT2kdD4XGeF"
+    },
+    {
+      "artist": "Etham",
+      "album": "Purpose",
+      "track": "Purpose - Stripped",
+      "uri": "spotify:track:4IlzIqULsKpVz0b0kUbyO1"
+    },
+    {
+      "artist": "Troye Sivan",
+      "album": "Bloom",
+      "track": "Dance To This (feat. Ariana Grande)",
+      "uri": "spotify:track:2NjO87HyT80fsgejd3PLYW"
+    },
+    {
+      "artist": "Charlie Puth",
+      "album": "Nine Track Mind",
+      "track": "Up All Night",
+      "uri": "spotify:track:51cJFmn6j0LUaxef2lQ3dz"
+    },
+    {
+      "artist": "Charlie Puth",
+      "album": "Nine Track Mind",
+      "track": "Dangerously",
+      "uri": "spotify:track:3qonjOrhFCfTnaaMruHzxW"
+    },
+    {
+      "artist": "Ruel",
+      "album": "Free Time",
+      "track": "Painkiller",
+      "uri": "spotify:track:1YlulsUKDduOmC7WxvXYPW"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Waking Up",
+      "track": "Good Life",
+      "uri": "spotify:track:6OtCIsQZ64Vs1EbzztvAv4"
+    },
+    {
+      "artist": "Loving Caliber",
+      "album": "Loving Christmas",
+      "track": "My Winter Wonderland",
+      "uri": "spotify:track:0gYZygudWhKZECIdF0ImWL"
+    },
+    {
+      "artist": "Kate Bush",
+      "album": "Hounds Of Love",
+      "track": "Running Up That Hill (A Deal With God)",
+      "uri": "spotify:track:1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Speak Now",
+      "track": "Long Live",
+      "uri": "spotify:track:4ewAfHYpDTzpW1GKO44CVP"
+    },
+    {
+      "artist": "Katherine Ho",
+      "album": "Crazy Rich Asians (Original Motion Picture Soundtrack)",
+      "track": "Yellow",
+      "uri": "spotify:track:3e6PsN3KCWRp6NGKN9F9pA"
+    },
+    {
+      "artist": "JANNABI",
+      "album": "LEGEND",
+      "track": "for lovers who hesitate",
+      "uri": "spotify:track:5BqwC9kOBbqYkzdOKeXFFk"
+    },
+    {
+      "artist": "IU",
+      "album": "eight",
+      "track": "eight(Prod.&Feat. SUGA of BTS)",
+      "uri": "spotify:track:0pYacDCZuRhcrwGUA5nTBe"
+    },
+    {
+      "artist": "MC Dodo",
+      "album": "Cruel Summer",
+      "track": "Cruel Summer",
+      "uri": "spotify:track:6Q8oTV3qKJEZR1FDuj1hyk"
+    },
+    {
+      "artist": "Lim Jae Beum",
+      "album": "임재범1집",
+      "track": "이밤이지나면",
+      "uri": "spotify:track:2bAMoEukdKb0Rk4u6IcUM3"
+    },
+    {
+      "artist": "Kim Kyung Hee",
+      "album": "Our Beloved Summer (Original Television Soundtrack), Pt. 11",
+      "track": "Our Beloved Summer",
+      "uri": "spotify:track:6Nw6XxOGVgKPOgi8LidyPq"
+    },
+    {
+      "artist": "P!nk",
+      "album": "Beautiful Trauma",
+      "track": "What About Us",
+      "uri": "spotify:track:0Qh38w01QRXK6KHIv0e3hb"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Bouquet",
+      "track": "Roses (feat. ROZES)",
+      "uri": "spotify:track:3FWPoYBDserKdzcattMFGa"
+    },
+    {
+      "artist": "Openside",
+      "album": "Episode Two: Waiting For Love",
+      "track": "I Just Wanted You",
+      "uri": "spotify:track:75sH7jX76CCvGeEbdBVT7Z"
+    },
+    {
+      "artist": "High School Musical Cast",
+      "album": "High School Musical 3: Senior Year",
+      "track": "Can I Have This Dance",
+      "uri": "spotify:track:4Dcb25rH4bpL0PSYWlj0nE"
+    },
+    {
+      "artist": "DELISPICE",
+      "album": "Deli Spice",
+      "track": "chow chow-No matter how hard I try to block it, I can hear your voice",
+      "uri": "spotify:track:2L1d8klSiq0dhndAszGWuO"
+    },
+    {
+      "artist": "Chris Dececio",
+      "album": "Hot Pop",
+      "track": "Just Be Real with Me",
+      "uri": "spotify:track:7HKY17jXt40acj4YvN9aJi"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Frozen 2",
+      "track": "Into the Unknown (End Credit Version)",
+      "uri": "spotify:track:4OkHootAlj7w9Eb2zJVlWr"
+    },
+    {
+      "artist": "renforshort",
+      "album": "dear amelia",
+      "track": "moshpit",
+      "uri": "spotify:track:5LIwaCUAPW3ugjQ5ls3Fxs"
+    },
+    {
+      "artist": "Ariana DeBose",
+      "album": "This Wish",
+      "track": "This Wish - From \"Wish\"",
+      "uri": "spotify:track:5yvHjO06WHe7ETlgirLjbw"
+    },
+    {
+      "artist": "Cigarettes After Sex",
+      "album": "Cigarettes After Sex",
+      "track": "Apocalypse",
+      "uri": "spotify:track:0yc6Gst2xkRu0eMLeRMGCX"
+    },
+    {
+      "artist": "SUPER JUNIOR",
+      "album": "Super Junior 05",
+      "track": "Miracle",
+      "uri": "spotify:track:50mJUXTFaqSTpqppyPPnvp"
+    },
+    {
+      "artist": "HONNE",
+      "album": "Warm on a Cold Night",
+      "track": "It Ain't Wrong Loving You",
+      "uri": "spotify:track:46dEPk9Luf1gokLNZWEZwN"
+    },
+    {
+      "artist": "The Beatles",
+      "album": "1",
+      "track": "Let It Be - Remastered 2015",
+      "uri": "spotify:track:4qsVPnhbvEooD1bSNqvvh0"
+    },
+    {
+      "artist": "elijah woods",
+      "album": "24/7, 365",
+      "track": "24/7, 365",
+      "uri": "spotify:track:05QUYSOApWLr8oBbpONl7p"
+    },
+    {
+      "artist": "Avicii",
+      "album": "AVĪCI",
+      "track": "Without You (feat. Sandro Cavazza)",
+      "uri": "spotify:track:6Pgkp4qUoTmJIPn7ReaGxL"
+    },
+    {
+      "artist": "Oasis",
+      "album": "(What's The Story) Morning Glory?",
+      "track": "Don't Look Back In Anger",
+      "uri": "spotify:track:7ppPZa3TRUSGKaks9wH7VT"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Memories...Do Not Open",
+      "track": "Something Just Like This",
+      "uri": "spotify:track:6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "artist": "Busted",
+      "album": "Year 3000 2.0",
+      "track": "Year 3000 2.0",
+      "uri": "spotify:track:6GQER7cmMJ3goZa1U6VgPs"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Stay",
+      "track": "I'm The Greatest",
+      "uri": "spotify:track:4vAQgQxs2gY3TlXBALUsKM"
+    },
+    {
+      "artist": "Peder Elias",
+      "album": "Paper Plane",
+      "track": "Paper Plane",
+      "uri": "spotify:track:4Q0MDstOadw92Gncso1llQ"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Taylor Swift",
+      "track": "Teardrops on My Guitar - Pop Version",
+      "uri": "spotify:track:1hxLyjC9D9Jpw6EAPKqWv4"
+    },
+    {
+      "artist": "LANY",
+      "album": "gg bb xx",
+      "track": "ex i never had",
+      "uri": "spotify:track:1NAyq9TrQIpLHWStUX4xAQ"
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "album": "SOUR",
+      "track": "traitor",
+      "uri": "spotify:track:5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "artist": "Lewis Capaldi",
+      "album": "Forget Me",
+      "track": "Forget Me",
+      "uri": "spotify:track:5uSFGgIfHMT3osrAd9n9ym"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Wildest Dreams (Taylor's Version)",
+      "track": "Wildest Dreams (Taylor's Version)",
+      "uri": "spotify:track:1Ov37jtRQ2YNAe8HzfczkL"
+    },
+    {
+      "artist": "David Archuleta",
+      "album": "David Archuleta",
+      "track": "Crush",
+      "uri": "spotify:track:4wCD0qOFNRu1Q6O3N6ycm4"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Purpose - The 2nd Album",
+      "track": "Gravity",
+      "uri": "spotify:track:1fzLM4SRonzoHm723a2mP5"
+    },
+    {
+      "artist": "Why Don't We",
+      "album": "Love Back",
+      "track": "Love Back",
+      "uri": "spotify:track:7weX6syqklVQocpVVmDNwI"
+    },
+    {
+      "artist": "Kina Grannis",
+      "album": "Crazy Rich Asians (Original Motion Picture Soundtrack)",
+      "track": "Can't Help Falling In Love",
+      "uri": "spotify:track:6lfxq3CG4xtTiEg7opyCyx"
+    },
+    {
+      "artist": "Evening Traveler",
+      "album": "Let Loose",
+      "track": "Let Loose",
+      "uri": "spotify:track:7Ez0vdUKsKlVrGX6Tq6N3r"
+    },
+    {
+      "artist": "SLANDER",
+      "album": "Love Is Gone",
+      "track": "Love Is Gone",
+      "uri": "spotify:track:39glqzRVRAy4vq3PqeTGb8"
+    },
+    {
+      "artist": "Ruth B.",
+      "album": "Safe Haven",
+      "track": "Dandelions",
+      "uri": "spotify:track:2eAvDnpXP5W0cVtiI0PUxV"
+    },
+    {
+      "artist": "Lauv",
+      "album": "I met you when I was 18.",
+      "track": "Chasing Fire",
+      "uri": "spotify:track:0wCiZgPLKt7M2aoPMBB6Tx"
+    },
+    {
+      "artist": "Astrid S",
+      "album": "Leave It Beautiful",
+      "track": "It's Ok If You Forget Me",
+      "uri": "spotify:track:4YwIOEhqg57IX2QasbetBi"
+    },
+    {
+      "artist": "Mike Perry",
+      "album": "The Ocean (feat. Shy Martin)",
+      "track": "The Ocean (feat. Shy Martin)",
+      "uri": "spotify:track:2CPqh63wRVscbceKcPxwvv"
+    },
+    {
+      "artist": "Alexander",
+      "album": "Rewrite the Stars",
+      "track": "Rewrite the Stars",
+      "uri": "spotify:track:17IOCjl0uiVBJ76PfWu5KO"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "track": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "uri": "spotify:track:6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "artist": "MRCH",
+      "album": "Color It",
+      "track": "Color It",
+      "uri": "spotify:track:5kFDEZPQLyyt7bvaiqPyRc"
+    },
+    {
+      "artist": "Ethan Dufault",
+      "album": "What If",
+      "track": "Signs",
+      "uri": "spotify:track:2ieQiQPHfvnS69pKhUZAEF"
+    },
+    {
+      "artist": "renforshort",
+      "album": "fuck, i luv my friends",
+      "track": "fuck, i luv my friends",
+      "uri": "spotify:track:4hk4plGoAmg3naYTq8EUul"
+    },
+    {
+      "artist": "No Rome",
+      "album": "RIP Indo Hisashi",
+      "track": "Narcissist (feat. The 1975)",
+      "uri": "spotify:track:4qjLvvBh5ZeKEPyShKRf06"
+    },
+    {
+      "artist": "2NE1",
+      "album": "2NE1 1st Mini Album",
+      "track": "In The Club",
+      "uri": "spotify:track:0HfsCAv2Bh9bJNxjD8Sm7S"
+    },
+    {
+      "artist": "24kGoldn",
+      "album": "El Dorado",
+      "track": "Mood (feat. iann dior)",
+      "uri": "spotify:track:4jPy3l0RUwlUI9T5XHBW2m"
+    },
+    {
+      "artist": "KIMMUSEUM",
+      "album": "Nevertheless, (Original Drama Sound Track, Pt. 1)",
+      "track": "We're Already",
+      "uri": "spotify:track:1kuML8BXbxGjfxQ1FkJPwI"
+    },
+    {
+      "artist": "DNCE",
+      "album": "DNCE",
+      "track": "Truthfully",
+      "uri": "spotify:track:2lBqyCeue1bCd6HCZtKXHu"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Joah",
+      "track": "Joah",
+      "uri": "spotify:track:2occELokWRfqLIlQJhJLZ6"
+    },
+    {
+      "artist": "Yuuri",
+      "album": "ベテルギウス",
+      "track": "ベテルギウス",
+      "uri": "spotify:track:2sf18cEv463VgqmdjDsFpw"
+    },
+    {
+      "artist": "Charlie Puth",
+      "album": "Nine Track Mind",
+      "track": "Then There's You",
+      "uri": "spotify:track:1hlFygofCSO8PfIrAougLY"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Parachutes",
+      "track": "Yellow",
+      "uri": "spotify:track:3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "artist": "Peach PRC",
+      "album": "Heavy",
+      "track": "Heavy",
+      "uri": "spotify:track:4UMWqTR58mUBRkFQkc0tle"
+    },
+    {
+      "artist": "Nerd Connection",
+      "album": "Good Night Good Dream",
+      "track": "Good Night Good Dream",
+      "uri": "spotify:track:423WHvB4mKprM6hELzpH3F"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Why - The 2nd Mini Album",
+      "track": "Why",
+      "uri": "spotify:track:4eiPbjcTEJDQcsv7WV0vfD"
+    },
+    {
+      "artist": "HYUKOH",
+      "album": "20",
+      "track": "Ohio",
+      "uri": "spotify:track:53EC95VrvT6Ne0ZfJLAQM9"
+    },
+    {
+      "artist": "MRCH",
+      "album": "Still Romantic",
+      "track": "Still Romantic",
+      "uri": "spotify:track:0tBMBvQurpQuSimLPXnu75"
+    },
+    {
+      "artist": "Yerin Baek",
+      "album": "tellusboutyourself",
+      "track": "I am not your ocean anymore",
+      "uri": "spotify:track:4ENVMTuK1ohqMjJYi1vEE4"
+    },
+    {
+      "artist": "LANY",
+      "album": "kinda",
+      "track": "pink skies",
+      "uri": "spotify:track:6BZ6pl5bczDc3cMF1kBaOy"
+    },
+    {
+      "artist": "IU",
+      "album": "Love wins all",
+      "track": "Love wins all",
+      "uri": "spotify:track:0djkJ3iAARXRCbfbwwVc3o"
+    },
+    {
+      "artist": "Tez Cadey",
+      "album": "Seve",
+      "track": "Seve - Radio Edit",
+      "uri": "spotify:track:6UqRGwjwYL0stXbaodTxwo"
+    },
+    {
+      "artist": "Beenzino",
+      "album": "24:26",
+      "track": "Aqua Man",
+      "uri": "spotify:track:5tEouf2s1SPwAIkOHnvWtQ"
+    },
+    {
+      "artist": "Lewis Capaldi",
+      "album": "Divinely Uninspired To A Hellish Extent",
+      "track": "Someone You Loved",
+      "uri": "spotify:track:7qEHsqek33rTcFNT9PFqLf"
+    },
+    {
+      "artist": "MeloMance",
+      "album": "Love, Maybe (A Business Proposal OST Special Track)",
+      "track": "Love, Maybe",
+      "uri": "spotify:track:2X45nVBeYzmDlrXji9Av0Q"
+    },
+    {
+      "artist": "MIYEON",
+      "album": "MY",
+      "track": "Drive",
+      "uri": "spotify:track:0nsIi8do34jaxhKI8C6QLP"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "4",
+      "track": "Love On Top",
+      "uri": "spotify:track:1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "artist": "Loving Caliber",
+      "album": "Circles",
+      "track": "Love Me Like You Did Last Night",
+      "uri": "spotify:track:4a7fwidQt559TPc7ZBiAXA"
+    },
+    {
+      "artist": "Lauv",
+      "album": "Love U Like That",
+      "track": "Love U Like That",
+      "uri": "spotify:track:3rmqiQbzPDx7A8p88IRFKg"
+    },
+    {
+      "artist": "Troye Sivan",
+      "album": "Strawberries & Cigarettes",
+      "track": "Strawberries & Cigarettes",
+      "uri": "spotify:track:3afkJSKX0EAMsJXTZnDXXJ"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "Speed of Sound",
+      "uri": "spotify:track:7clUVcSOtkNWa58Gw5RfD4"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Ethan Dufault",
+      "album": "Kryptonite",
+      "uri": "spotify:album:2Fx5ehzPp2nM0nHSpUKmus"
+    },
+    {
+      "artist": "IU",
+      "album": "IU 5th Album 'LILAC'",
+      "uri": "spotify:album:01dPJcwyht77brL4JQiR8R"
+    },
+    {
+      "artist": "IU",
+      "album": "eight",
+      "uri": "spotify:album:5vJNAlQeTf9lsulO1YlmSt"
+    }
+  ],
+  "shows": [
+    {
+      "name": "Slow German Podcast for Beginners (A1-B1)",
+      "publisher": "Learngermanwithfalk",
+      "uri": "spotify:show:6m5hXx0y9UTvrYVc93RAzR"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+    {
+      "name": "5 Seconds of Summer",
+      "uri": "spotify:artist:5Rl15oVamLq7FbSb0NNBNy"
+    },
+    {
+      "name": "Bruno Mars",
+      "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+    },
+    {
+      "name": "Charlie Puth",
+      "uri": "spotify:artist:6VuMaDnrHyPL1p4EHjYLi7"
+    },
+    {
+      "name": "Hailee Steinfeld",
+      "uri": "spotify:artist:5p7f24Rk5HkUZsaS3BLG5F"
+    },
+    {
+      "name": "Harry Styles",
+      "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    },
+    {
+      "name": "IU",
+      "uri": "spotify:artist:3HqSLMAZ3g3d5poNaI7GOU"
+    },
+    {
+      "name": "Selena Gomez",
+      "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+    },
+    {
+      "name": "TAEYEON",
+      "uri": "spotify:artist:3qNVuliS40BLgXGxhdBdqu"
+    },
+    {
+      "name": "Taylor Swift",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+      "name": "Why Don't We",
+      "uri": "spotify:artist:2jnIB6XdLvnJUeNTy5A0J2"
+    },
+    {
+      "name": "Yerin Baek",
+      "uri": "spotify:artist:6dhfy4ByARPJdPtMyrUYJK"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "tracks": [
+    {
+      "artist": "Kendji Girac",
+      "album": "Amigo",
+      "track": "Maria Maria",
+      "uri": "spotify:track:2t6aqeXvLJ6ewrxFLcviOS"
+    },
+    {
+      "artist": "Kendji Girac",
+      "album": "Amigo",
+      "track": "Si je pars",
+      "uri": "spotify:track:6yeRgCv8nriUNCK7PDaBBi"
+    },
+    {
+      "artist": "Kendji Girac",
+      "album": "Amigo",
+      "track": "Tu vas manquer",
+      "uri": "spotify:track:5Qjoee7cfoWXWZMw9A0jEJ"
+    },
+    {
+      "artist": "Kendji Girac",
+      "album": "Amigo",
+      "track": "Que Dieu me pardonne",
+      "uri": "spotify:track:0hHNjDAThUngWzegMB4YYU"
+    },
+    {
+      "artist": "Kendji Girac",
+      "album": "Amigo",
+      "track": "Yo Cantare",
+      "uri": "spotify:track:20gQarst0djq8xdZr6ukHK"
+    },
+    {
+      "artist": "Kendji Girac",
+      "album": "Amigo",
+      "track": "Autour du feu",
+      "uri": "spotify:track:5Bczrvbqtd3KtwJ1NKrD0r"
+    },
+    {
+      "artist": "Kendji Girac",
+      "album": "Amigo",
+      "track": "Ma bien aimée",
+      "uri": "spotify:track:2HCE3VBC1aTOuVrfvYm44t"
+    },
+    {
+      "artist": "Kendji Girac",
+      "album": "Amigo",
+      "track": "Laisse tomber",
+      "uri": "spotify:track:4td1A792gTiZyHI7ntygWM"
+    },
+    {
+      "artist": "Kendji Girac",
+      "album": "Amigo",
+      "track": "Mi Amor",
+      "uri": "spotify:track:1HKqltgDYaReZPkZOxG3Re"
+    },
+    {
+      "artist": "Kendji Girac",
+      "album": "Amigo",
+      "track": "Ma folie",
+      "uri": "spotify:track:0fJWsQRgpCqmq8UUUZGHtl"
+    },
+    {
+      "artist": "Kendji Girac",
+      "album": "Amigo",
+      "track": "Amigo",
+      "uri": "spotify:track:52RezcBFj7oixSNk4Q8cZo"
+    },
+    {
+      "artist": "Kendji Girac",
+      "album": "Amigo",
+      "track": "Tiago",
+      "uri": "spotify:track:63eflEIBAF5VmO5AdVuZF7"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Kendji Girac",
+      "album": "Amigo",
+      "uri": "spotify:album:29ct57rVIi3MIFyKJYUWrZ"
+    }
+  ],
+  "shows": [
+    {
+      "name": "High Ticket Expert",
+      "publisher": "Dan Lok",
+      "uri": "spotify:show:4YAfK7XlAmpjmsxRYmxIIa"
+    },
+    {
+      "name": "Intermediate French Podcast",
+      "publisher": "innerFrench",
+      "uri": "spotify:show:5qtwV2lzgZ4ThUpzDCsjuu"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+    {
+      "artist": "Davey Tsunami",
+      "album": "Madizone 2019",
+      "track": "Madizone 2019",
+      "uri": "spotify:track:0E28bHq781CPxdPzxWL3GU"
+    },
+    {
+      "artist": "Darun",
+      "album": "Don’t You Know? (feat. Khem)",
+      "track": "Don’t You Know? (feat. Khem)",
+      "uri": "spotify:track:0nKpcjijV52pfmSxHaYK90"
+    },
+    {
+      "artist": "Satiya",
+      "album": "Klen Kro-Orb",
+      "track": "Klen Kro-Orb",
+      "uri": "spotify:track:4YRB6CBeZdvkKZ9nqHjBXF"
+    },
+    {
+      "artist": "Satiya",
+      "album": "Kok Her Tae Aeng",
+      "track": "Kok Her Tae Aeng",
+      "uri": "spotify:track:3xeefL29zAUH0UPJHmVgke"
+    },
+    {
+      "artist": "OUN",
+      "album": "Looking for Love",
+      "track": "Kiss",
+      "uri": "spotify:track:7Ff3lwhvTIp1KhRWeSLTCs"
+    }
+  ],
+  "artists": [
+    {
+      "name": "Alicia Keys",
+      "uri": "spotify:artist:3DiDSECUqqY1AuBP8qtaIa"
+    },
+    {
+      "name": "Ariana Grande",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "name": "Bruno Mars",
+      "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+    },
+    {
+      "name": "Camila Cabello",
+      "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+    },
+    {
+      "name": "Charlie Puth",
+      "uri": "spotify:artist:6VuMaDnrHyPL1p4EHjYLi7"
+    },
+    {
+      "name": "Ed Sheeran",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+      "name": "Maroon 5",
+      "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+    },
+    {
+      "name": "OneRepublic",
+      "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ"
+    },
+    {
+      "name": "Sam Smith",
+      "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+    },
+    {
+      "name": "Selena Gomez",
+      "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+    },
+    {
+      "name": "USHER",
+      "uri": "spotify:artist:23zg3TcAtWQy7J6upgbUnj"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
